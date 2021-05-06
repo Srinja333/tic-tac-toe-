@@ -1,3 +1,3 @@
 # tic-tac-toe-
-tic tac toe with c code
+TIC TAC TOE GAME IN C PROGRAMMING
 
