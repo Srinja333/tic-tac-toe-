@@ -49,7 +49,7 @@ int main(){
 
 	drawBoard();
 	if(i==1){
-		printf("==>Player %d won",--player);
+		printf("==>Player %d WON",--player);
 		
 	}
 	else {
