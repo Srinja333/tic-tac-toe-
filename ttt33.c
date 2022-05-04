@@ -50,7 +50,7 @@ int main(){
 	drawBoard();
 	if(i==1){
 		printf("==>Player %d won",--player);
-		PlaySound(TEXT("C:\\Users\\LENOVO\\Music\\win.wav"),NULL,SND_SYNC);
+		
 	}
 	else {
 		printf("==>Game draw");
